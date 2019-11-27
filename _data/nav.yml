@@ -4,20 +4,25 @@
 - name: About
   path: about.html
   section_id: about
-- name: Services
+- name: Technical Reports
   path: services.html
   section_id: services
-- name: Portfolio
+
+- name: People
   path: portfolio.html
   section_id: portfolio
-  children:
-    - name: Portfolio
-      path: portfolio.html
-    - name: Portfolio item
-      path: portfolio-item.html
-- name: Contact
-  path: contact.html
-  section_id: contact
+
+- name: Publications
+  path: portfolio-item.html
+  section_id: portfolio
+- name: Theses
+  path: theses.html
+  section_id: theses
+- name: RFCs
+  path: rfc.html
+  section_id: rfc
+
 - name: Blog
   path: blog/
   section_id: blog
+
