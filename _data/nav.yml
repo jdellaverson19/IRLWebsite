@@ -9,11 +9,11 @@
   section_id: services
 
 - name: People
-  path: portfolio.html
+  path: people.html
   section_id: portfolio
 
 - name: Publications
-  path: portfolio-item.html
+  path: publications.html
   section_id: portfolio
 - name: Theses
   path: theses.html
